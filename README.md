@@ -1,0 +1,2 @@
+# A-Multimodal-Cross-Attention-Architecture-for-Neurodegenerative-Risk-Classification
+Multimodal deep learning for neurodegenerative risk classification using brain MRI-derived features and clinical biomarkers. This project uses a cross-attention architecture and the OASIS-2 dataset, achieving 89.4% accuracy and 94.2% AUROC, with comparisons against traditional machine learning models and feature importance analysis.
